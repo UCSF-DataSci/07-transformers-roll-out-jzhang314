@@ -1,0 +1,26 @@
+[
+  {
+    "diagnosis": "Generalized Anxiety Disorder",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "Anaphylaxis due to onion allergy",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "hypertrophic lichen planus",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.9
+  },
+  {
+    "diagnosis": "Type II choledochal cyst/double GB/Type VI choledochal cyst",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.9
+  }
+]
